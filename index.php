@@ -17,14 +17,23 @@
 <div class="container">
             
 <div class="hero-unit">
-   
-<img src="pic-alef1.gif" width="50%">             
-<h1>Simple Web Server</h1>
-                
+
+<table>
+    <tr>
+        <td>
+        <img src="pic-alef1.gif" width="20%">             
+        </td>
+        <td>
+        <h1>Simple Web Server</h1>
+        </td>
+    </tr>
+</table>                
+    
 <p>Your PHP application is now running on the host &ldquo;<?php echo gethostname(); ?>&rdquo; in your own dedicated environment in the AWS&nbsp;Cloud.</p>
                 
 <p>This host is running PHP version <?php echo phpversion(); ?>.</p>
-            
+    
+    
 </div>
         
 </div>

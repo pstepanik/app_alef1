@@ -18,16 +18,10 @@
             
 <div class="hero-unit">
 
-<table>
-    <tr>
-        <td>
-        <img src="pic-alef1.gif" width="20%">             
-        </td>
-        <td>
-        <h1>Simple Web Server</h1>
-        </td>
-    </tr>
-</table>                
+<img src="pic-alef1.gif" width="20%">             
+   
+<h1>Simple Web Server</h1>
+                       
     
 <p>Your PHP application is now running on the host &ldquo;<?php echo gethostname(); ?>&rdquo; in your own dedicated environment in the AWS&nbsp;Cloud.</p>
                 
